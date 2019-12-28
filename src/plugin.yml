@@ -1,0 +1,7 @@
+main: com.spindel.helloworld.main
+name: HelloWorld
+version: 1.0
+author: Spindel
+
+commands:
+  Hello:
